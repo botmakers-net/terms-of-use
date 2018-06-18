@@ -36,7 +36,10 @@ Please read the Terms of Service carefully before you start to use the Site. By 
  - If an order is cancelled (for any reason), the funds paid will be refunded to the buyer’s account.
  - Sellers may promote their Templates or any Botmakers content via the Internet.
  -
- ## Payouts ##
+# Withdrawing Revenues #
+
+ - To withdraw your revenue, you must have an account with at least one of Botmakers's withdrawal methods.
+ - Withdrawals can only be made in the amount available to you.
   
   ### Sellers with connected Stripe ###
   - Sellers that connected their Stripe accounts get the funds loaded to their Stripe accounts immediately.
@@ -45,7 +48,17 @@ Please read the Terms of Service carefully before you start to use the Site. By 
   - Since Stripe is not available in some countries **Sellers** that are residents of those countries can collected their earning at the Botmakers account
   - Botmakers team makes a manual payout at the end of each month.
   - Botmakers team makes a payout to a **Seller** only if more than $200 is available at the **Selller's** account.
+  - Withdrawals are final and cannot be undone. We will not be able to refund or change this process once it has begun.
+  
+  ### Withdrawal Methods ###
+| METHOD  | FEE | SERVICE AVAILABILITY |
+| ------------- | ------------- |
+| Withdraw to your Stripe Account  | 3% of the sum withdrawal amount up + 0.3 cent on every transaction  | A list of countries where Stripe is available (https://stripe.com/global) |
+| Payoneer USD card  | 3% of the sum withdrawal amount up + 0.3 cent on every transaction. $10 Botmakers Finance team fee per withdrawal |
  
+
  
 ## Violations ##
 **Sellers** may receive a warning to their account for violations of our Terms of Service or any user misconduct reported to Botmakers team. A warning will be sent to the user's email address and or by Facebook Messenger private message. Warnings do not limit account activity, but can lead to your account losing seller statuses or becoming permanently disabled based on the severity of the violation.
+
+
