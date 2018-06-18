@@ -54,7 +54,7 @@ Please read the Terms of Service carefully before you start to use the Site. By 
 | METHOD  | FEE | SERVICE AVAILABILITY |
 | ------------- | ------------- | ------------- |
 | Withdraw to your Stripe Account  | 3% of the sum withdrawal amount up + 0.3 cent on every transaction  | A list of countries where Stripe is available (https://stripe.com/global) |
-| Payoneer USD card  | 3% of the sum withdrawal amount up + 0.3 cent on every transaction +$10 Botmakers Finance team fee |
+| Payoneer USD card  | 3% of the sum withdrawal amount up + 0.3 cent on every transaction +$10 Botmakers Finance team fee | Worldwide where Stripe is not available |
  
 
  
