@@ -35,4 +35,14 @@ Please read the Terms of Service carefully before you start to use the Site. By 
  - Each order you sell and successfully complete, accredits your account with a net revenue of 50% of the purchase amount.
  - If an order is cancelled (for any reason), the funds paid will be refunded to the buyer’s account.
  - Sellers may promote their Templates or any Botmakers content via the Internet.
- - 
+ -
+ ## Payouts ##
+  
+  ### Sellers with connected Stripe ###
+  - Sellers that connected their Stripe accounts get the funds loaded to their Stripe accounts immediately.
+  
+  ### Sellers WITHOUT connected Stripe ###
+  - Since Stripe is not available in some countries **Sellers** that are residents of those countries can collected their earning at the Botmakers account
+  - Botmakers team makes a manual payout at the end of each month.
+  - Botmakers team makes a payout to a **Seller** only if more than $200 is available at the **Selller's** account.
+ 
