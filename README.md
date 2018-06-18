@@ -46,3 +46,6 @@ Please read the Terms of Service carefully before you start to use the Site. By 
   - Botmakers team makes a manual payout at the end of each month.
   - Botmakers team makes a payout to a **Seller** only if more than $200 is available at the **Selller's** account.
  
+ 
+## Violations ##
+**Sellers** may receive a warning to their account for violations of our Terms of Service or any user misconduct reported to Botmakers team. A warning will be sent to the user's email address and or by Facebook Messenger private message. Warnings do not limit account activity, but can lead to your account losing seller statuses or becoming permanently disabled based on the severity of the violation.
