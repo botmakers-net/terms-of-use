@@ -30,9 +30,9 @@ Please read the Terms of Service carefully before you start to use the Site. By 
 
 ## 1. Basics ##
 
- - Sellers create Templates on Botmakers to allow Buyers to purchase their services.
- - Sellers may also offer custom addons or services to Buyers in addition to their templates at the checkout page.
- - Sellers are not allowed to contact Users in any way and offer them their services or **template** outside of Botmakers.
+ 1. Sellers create Templates on Botmakers to allow Buyers to purchase their services.
+ 1. Sellers may also offer custom addons or services to Buyers in addition to their templates at the checkout page.
+ 1. Sellers are not allowed to contact Users in any way and offer them their services or **template** outside of Botmakers.
  - Sellers may offer template customization or any other services to **Buyers**.
  - Each order you sell and successfully complete, accredits your account with a net revenue of 50% of the purchase amount.
  - If an order is cancelled (for any reason), the funds paid will be refunded to the buyer’s account.
