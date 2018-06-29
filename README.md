@@ -55,11 +55,15 @@ Please read the Terms of Service carefully before you start to use the Site. By 
  - Spam, Nonsense, or Violent Templates
  - Templates misleading to Buyers
  
- ## Template Customization and Professional Services ##
+ ## 3. Template extras and addons ##
+ 1. Template Extras are additional services offered on top of the Buyer for an additional price. The price of extras are set by Botmakers but can be customized for a Seller if needed.
+ 1. Sellers might exclude some extras from their Templates.
+ 
+ ## 4. Template Customization and Professional Services ##
  - Sellers might offer their professional services (bot customization, Facebook Ads setup, copywriting, consulting etc.) only after a Buyer makes a purchase.
  - Sellers can not sell the other Templates they have made to Buyers directly if those Templates are listed at the Marketplace.
 
-## 3. Restrictions 
+## 5. Restrictions 
  1. It's stritly forbidden to contact people who chatted with a template before Buyers made a purchase.
  *Since some Sellers reach Buyers before they make a pruchase and sell them templates directly without paying Botmakers a comission fee. Don't do this. We've already blocked a few people who decided to cheat so.*
 
@@ -86,7 +90,19 @@ Please read the Terms of Service carefully before you start to use the Site. By 
 
  
 ## Violations ##
-**Sellers** may receive a warning to their account for violations of our Terms of Service or any user misconduct reported to Botmakers team. A warning will be sent to the user's email address and or by Facebook Messenger private message. Warnings do not limit account activity, but can lead to your account losing seller statuses or becoming permanently disabled based on the severity of the violation.
-Sellers that violate Terms of Use might be blocked at the Marketplace and their earnings might be a subject to review.
 
+### General Terms ###
+Botmakers reserves the right to put any account on hold or permanently disable accounts due to breach of these terms of service or due to any illegal or inappropriate use of the Site or services.
+
+Violation of Botmakers's Terms of Service may get your account disabled permanently.
+
+Users with disabled accounts will not be able to sell, buy or preview templates on Botmakers.
+
+Users who have violated our Terms of Service and had their account disabled may contact our Customer Support team for more information surrounding the violation and status of the account.
+
+Sellers might be able to withdraw their revenues from disabled accounts after a safety period of 90 days following full verification of ownership of the account in question, from the day of the last cleared payment received in their account and subject to Botmakers's approval.
+
+Botmakers may make changes to its Terms of Service from time to time. When these changes are made, Botmakers will make a new copy of the terms of service available on this page.
+
+You understand and agree that if you use Botmakers after the date on which the Terms of Service have changed, Botmakers will treat your use as acceptance of the updated Terms of Service.
 
