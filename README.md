@@ -46,7 +46,6 @@ Please read the Terms of Service carefully before you start to use the Site. By 
  1. Botmakers team  might change Facebook page profile picture, cover, name and any other information without notifying the Sellers.
  1. All templates listed at the Marketplace might participate in flash sales Botmakers team does in Facebook groups.
  1. Templates can be sold with a discounted price. Usually that's happening when Buyers apply promo codes, OR when Templates are listed in bundles, or when Botmakers team does a promotion sales (Black Friday, Flash sales, etc).
-
 1. Templates may be removed by Botmakers for violations to these Terms of Service, which may include (but are not limited to) the following violations and/or materials:
 
  - Illegal or Fraudulent services
@@ -56,9 +55,11 @@ Please read the Terms of Service carefully before you start to use the Site. By 
  - Spam, Nonsense, or Violent Templates
  - Templates misleading to Buyers
  
-## 3. Comission ##
+ ## Template Customization and Professional Services ##
+ - Sellers might offer their professional services (bot customization, Facebook Ads setup, copywriting, consulting etc.) only after a Buyer makes a purchase.
+ - Sellers can not sell the other Templates they have made to Buyers directly if those Templates are listed at the Marketplace.
 
-## 4. Restrictions 
+## 3. Restrictions 
  1. It's stritly forbidden to contact people who chatted with a template before Buyers made a purchase.
  *Since some Sellers reach Buyers before they make a pruchase and sell them templates directly without paying Botmakers a comission fee. Don't do this. We've already blocked a few people who decided to cheat so.*
 
