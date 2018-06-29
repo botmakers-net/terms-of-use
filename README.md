@@ -46,7 +46,17 @@ Please read the Terms of Service carefully before you start to use the Site. By 
  1. All templates listed at the Marketplace might participate in flash sales Botmakers team does in Facebook groups.
  1. Templates can be sold with a discounted price. Usually that's happening when Buyers apply promo codes, OR when Templates are listed in bundles, or when Botmakers team does a promotion sales (Black Friday, Flash sales, etc).
 
-## 3. Restrictions 
+1. Templates may be removed by Botmakers for violations to these Terms of Service, which may include (but are not limited to) the following violations and/or materials:
+ - Illegal or Fraudulent services
+ - Copyright Infringement, Trademark Infringement, and violation of a third party's terms of service reported through our Intellectual Property Claims Policy found here
+ - Adult oriented services, Pornographic, Inappropriate/Obscene
+ - Intentional copies of Templates
+ - Spam, Nonsense, or Violent Templates
+ - Templates misleading to Buyers
+ 
+## 3. Comission ##
+
+## 4. Restrictions 
  1. It's stritly forbidden to contact people who chatted with a template before Buyers made a purchase.
  *Since some Sellers reach Buyers before they make a pruchase and sell them templates directly without paying Botmakers a comission fee. Don't do this. We've already blocked a few people who decided to cheat so.*
 
