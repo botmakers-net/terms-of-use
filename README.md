@@ -34,7 +34,8 @@ Please read the Terms of Service carefully before you start to use the Site. By 
  1. Sellers may also offer custom addons or services to Buyers in addition to their templates at the checkout page.
  1. Sellers are not allowed to contact Users in any way and offer them their services or **template** outside of Botmakers.
  1. Sellers may offer template customization or any other services to **Buyers**.
- 1. Each order you sell and successfully complete, accredits your account with a net revenue of 50% of the purchase amount.
+ 1. Each order you sell and successfully complete, accredits your account with a net revenue of 60% of the purchase amount.
+ 1. Stripe fees are added at the time of purchase and covered by a Seller.
  1. If an order is cancelled (for any reason), the funds paid will be refunded to the buyer’s account.
  1. Sellers may promote their Templates or any Botmakers content via the Internet.
  
@@ -47,6 +48,7 @@ Please read the Terms of Service carefully before you start to use the Site. By 
  1. Templates can be sold with a discounted price. Usually that's happening when Buyers apply promo codes, OR when Templates are listed in bundles, or when Botmakers team does a promotion sales (Black Friday, Flash sales, etc).
 
 1. Templates may be removed by Botmakers for violations to these Terms of Service, which may include (but are not limited to) the following violations and/or materials:
+
  - Illegal or Fraudulent services
  - Copyright Infringement, Trademark Infringement, and violation of a third party's terms of service reported through our Intellectual Property Claims Policy found here
  - Adult oriented services, Pornographic, Inappropriate/Obscene
