@@ -47,24 +47,24 @@ Please read the Terms of Service carefully before you start to use the Site. By 
  1. Templates can be sold with a discounted price. Usually that's happening when Buyers apply promo codes, OR when Templates are listed in bundles, or when Botmakers team does a promotion sales (Black Friday, Flash sales, etc).
 
 ## 3. Restrictions 
- 1. It's stritly forbidden to contact people who chatted with a template before Buyers made a purchase. Sellers that violate this might be blocked at the Marketplace and their earnings might be a subject to review.
+ 1. It's stritly forbidden to contact people who chatted with a template before Buyers made a purchase.
  *Since some Sellers reach Buyers before they make a pruchase and sell them templates directly without paying Botmakers a comission fee. Don't do this. We've already blocked a few people who decided to cheat so.*
 
- # Withdrawing Revenues #
+# Withdrawing Revenues #
 
  1. To withdraw your revenue, you must have an account with at least one of Botmakers's withdrawal methods.
  1. Withdrawals can only be made in the amount available to you.
   
-  ### Sellers with connected Stripe ###
+### Sellers with connected Stripe ###
   - Sellers that connected their Stripe accounts get the funds loaded to their Stripe accounts immediately.
   
-  ### Sellers WITHOUT connected Stripe ###
+### Sellers WITHOUT connected Stripe ###
   1. Since Stripe is not available in some countries **Sellers** that are residents of those countries can collected their earning at the Botmakers account
   1. Botmakers team makes a manual payout at the end of each month.
   1. Botmakers team makes a payout to a **Seller** only if more than $200 is available at the **Selller's** account.
   1. Withdrawals are final and cannot be undone. We will not be able to refund or change this process once it has begun.
   
-  ### Withdrawal Methods ###
+### Withdrawal Methods ###
 | METHOD  | FEE | SERVICE AVAILABILITY |
 | ------------- | ------------- | ------------- |
 | Withdraw to your Stripe Account  | 3% of the sum withdrawal amount up + 0.3 cent on every transaction  | A list of countries where Stripe is available (https://stripe.com/global) |
@@ -74,5 +74,6 @@ Please read the Terms of Service carefully before you start to use the Site. By 
  
 ## Violations ##
 **Sellers** may receive a warning to their account for violations of our Terms of Service or any user misconduct reported to Botmakers team. A warning will be sent to the user's email address and or by Facebook Messenger private message. Warnings do not limit account activity, but can lead to your account losing seller statuses or becoming permanently disabled based on the severity of the violation.
+Sellers that violate Terms of Use might be blocked at the Marketplace and their earnings might be a subject to review.
 
 
